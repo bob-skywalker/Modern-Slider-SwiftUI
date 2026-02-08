@@ -1,6 +1,8 @@
 # ModernSlider
 
 A beautifully designed, customizable SwiftUI slider component with haptic feedback, smooth animations, and full iOS 17+ support.
+<img width="1536" height="1024" alt="ChatGPT Image Feb 7, 2026, 07_29_07 PM" src="https://github.com/user-attachments/assets/d1e41e9e-bd5b-4247-842a-4f72229b1152" />
+
 
 ![iOS](https://img.shields.io/badge/iOS-17.0+-blue.svg)
 ![Swift](https://img.shields.io/badge/Swift-6.2-orange.svg)
