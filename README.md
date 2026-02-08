@@ -23,7 +23,7 @@ A beautifully designed, customizable SwiftUI slider component with haptic feedba
 Add ModernSlider to your project using Xcode:
 
 1. In Xcode, select **File > Add Package Dependencies...**
-2. Enter the repository URL: `https://github.com/yourusername/ModernSlider.git`
+2. Enter the repository URL: `https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git`
 3. Select the version you want to use
 4. Click **Add Package**
 
@@ -31,7 +31,7 @@ Or add it to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/ModernSlider.git", from: "1.0.0")
+    .package(url: "https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git", from: "1.0.0")
 ]
 ```
 

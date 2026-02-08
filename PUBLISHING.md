@@ -4,7 +4,7 @@ This guide will walk you through publishing your ModernSlider package so others 
 
 ## Prerequisites
 
-- [x] Git repository initialized (you already have this)
+- [x] Git repository initialized
 - [ ] GitHub account
 - [ ] Code is ready and tested
 
@@ -26,8 +26,6 @@ Open Terminal and navigate to your project directory:
 ```bash
 cd /Users/bozhong/Desktop/Xcode-General/ModernSlider
 
-# Add the remote repository (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/ModernSlider.git
 
 # Verify the remote was added
 git remote -v
@@ -85,10 +83,10 @@ Examples:
 
    Add to your project via Swift Package Manager:
    ```
-   https://github.com/YOUR_USERNAME/ModernSlider.git
+   https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git
    ```
 
-   See the [README](https://github.com/YOUR_USERNAME/ModernSlider#readme) for usage examples.
+   See the [README](https://github.com/bob-skywalker/Modern-Slider-SwiftUI#readme) for usage examples.
    ```
 6. Click **Publish release**
 
@@ -98,7 +96,7 @@ Before announcing it, test that others can install it:
 
 1. Create a new Xcode project
 2. Go to **File** → **Add Package Dependencies...**
-3. Enter your repository URL: `https://github.com/YOUR_USERNAME/ModernSlider.git`
+3. Enter your repository URL: `https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git`
 4. Select version `1.0.0`
 5. Try using it in a view to make sure it works
 
@@ -108,7 +106,7 @@ Update the installation instructions in README.md with your actual GitHub URL:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/ModernSlider.git", from: "1.0.0")
+    .package(url: "https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git", from: "1.0.0")
 ]
 ```
 
@@ -141,7 +139,7 @@ Once published, share it with the community:
 • Easy to integrate
 
 📦 Install via SPM:
-https://github.com/YOUR_USERNAME/ModernSlider
+https://github.com/bob-skywalker/Modern-Slider-SwiftUI.git
 
 Check it out and let me know what you think! #SwiftUI #iOSDev
 ```
