@@ -1,0 +1,9 @@
+# CODEOWNERS file for ModernSlider
+# These owners will be automatically requested for review when someone opens a PR
+
+# Default owner for everything
+* @bob-skywalker
+
+# Specific paths (optional - you can add these as your package grows)
+/Sources/ @bob-skywalker
+Package.swift @bob-skywalker
